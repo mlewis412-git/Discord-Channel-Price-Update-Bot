@@ -54,7 +54,3 @@ Feel free to submit issues or pull requests if you have any improvements or bug 
 This project is licensed under the MIT License.
 
 ---
-
-Replace `YOUR_USERNAME` with your GitHub username, and `YOUR_CHANNEL_ID` and `YOUR_BOT_TOKEN` with your actual channel ID and bot token.
-
-By following these steps, anyone should be able to clone the repository, set up the bot, and run it on their own Discord server.
